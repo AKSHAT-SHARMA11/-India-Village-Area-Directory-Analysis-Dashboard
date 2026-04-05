@@ -45,5 +45,6 @@ Executive Design: Professional Maroon Theme with custom borders, shadows, and cl
 Name: Akshat Sharma
 
 GitHub: AKSHAT-SHARMA11
+![India Village Directory Dashboard](./img)
 
 Expertise: Data Analytics | SQL | Python | Power BI
