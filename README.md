@@ -42,9 +42,10 @@ Cross-Filtering: Every visual is interconnected; clicking a bar chart updates th
 Executive Design: Professional Maroon Theme with custom borders, shadows, and clean UI/UX.
 
 👤 Connect with Me
+
 Name: Akshat Sharma
 
 GitHub: AKSHAT-SHARMA11
-
+![India Village Directory Dashboard](./dashboard)
 
 Expertise: Data Analytics | SQL | Python | Power BI
