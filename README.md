@@ -46,6 +46,13 @@ Executive Design: Professional Maroon Theme with custom borders, shadows, and cl
 Name: Akshat Sharma
 
 GitHub: AKSHAT-SHARMA11
+📊 Interactive Dashboard Preview
+<p align="center">
+<img src="./power%20bi.png" width="900" alt="India Village Directory Power BI Dashboard">
+
+
+<i>National to District-level Geographical Analysis (5.7L+ Rows)</i>
+</p>
 
 
 Expertise: Data Analytics | SQL | Python | Power BI
